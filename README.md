@@ -40,7 +40,7 @@ This project is an interactive Excel dashboard developed to analyze mobile sales
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Exceldashboard.png)
 
 ---
 
